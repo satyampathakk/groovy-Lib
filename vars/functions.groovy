@@ -15,3 +15,6 @@ def deployApp(String environment) {
     echo " Deployment to ${environment} done"
 }
 
+def hello(){
+    echo "Hello world! "
+}
